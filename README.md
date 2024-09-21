@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about building high-quality softwar
 
 ### 🚀 What I'm Working On
 
-- **[VolleyballApp](https://github.com/yourusername/volleyball-app)**: A comprehensive volleyball team management app with a focus on creating and managing lineups, tracking player statistics, and facilitating team communication.
+- **[VolleyballApp](https://github.com/SpikeStudios/VolleyballApp)**: A comprehensive volleyball team management app with a focus on creating and managing lineups, tracking player statistics, and facilitating team communication.
 - **[Flutter Migration](https://github.com/yourusername/flutter-migration)**: Converting my Android app into a cross-platform Flutter app to support both Android and iOS.
 
 ### 🌱 What I'm Learning
@@ -26,24 +26,25 @@ Welcome to my GitHub profile! I'm passionate about building high-quality softwar
 - Flutter and Dart for cross-platform mobile development.
 - Advanced Firebase functionalities for real-time applications.
 - Exploring reinforcement learning and its applications in sports analytics.
+- Android Mobile App Development
 
 ### 🔍 Find Me Around the Web
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/harry-liddle-450a1b233/)
+- [Patreon](https://www.patreon.com/SpikeVolleyBall)
 - [Personal Blog](https://yourblog.com)
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SpikeStudios&show_icons=true&theme=radical)
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeStudios&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SpikeStudios&theme=radical)
 
 ### ✍️ Latest Blog Posts
 
