@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer | Mobile App Enthusiast | Open Source Contributor`**
 
-Welcome to my GitHub profile! I'm passionate about building high-quality software, contributing to open source, and exploring new technologies. My focus is on creating seamless user experiences in mobile and web applications.
+Welcome to my GitHub profile! I'm a dedicated developer with a passion for creating high-quality, seamless experiences across both mobile and web platforms. I love contributing to open source, exploring emerging technologies, and tackling new challenges head-on.
 
 ### 🛠️ Technologies & Tools
 
@@ -57,4 +57,3 @@ Welcome to my GitHub profile! I'm passionate about building high-quality softwar
 ---
 
 **Feel free to reach out! Let's collaborate and build something amazing together.** 💡
-
