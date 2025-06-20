@@ -18,11 +18,12 @@
 ### 🏐 **Spike** - The Ultimate Volleyball Experience
 > *A comprehensive volleyball app revolutionizing team management and player engagement*
 
-**Tech Stack:** iOS Native Swift, React Native, Modern Web Services
+**Tech Stack:** iOS Native Swift
 - Team lineup creation and management
 - Advanced player statistics tracking
 - Real-time team communication
 - Performance analytics dashboard
+- Machine Learning advancements in lineup management, development programs and deep insights into player formance
 
 ### 🗺️ **Uncharted** - Your Personal Travel Companion
 > *All-in-one travel app that transforms every journey into an adventure*
@@ -33,11 +34,13 @@
 - 👥 **Traveler Network** - Connect with fellow explorers
 - 🗺️ **Interactive Map** - Unveil new areas as you explore
 - 🎯 **Gamified Exploration** - Become a tourist everywhere you go
+- 🏆 **Challenge Your Friends** - Earn achievments as you explore and challenge your friends!
 
 ### 💼 **LidlDev Portfolio**
 > *Modern showcase of skills and projects with cutting-edge design*
 
 Built to demonstrate expertise in contemporary web development and design patterns.
+Showcase progress on all my projects 
 
 ---
 
@@ -75,11 +78,11 @@ Built to demonstrate expertise in contemporary web development and design patter
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpikeStudios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LidlDevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeStudios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LidlDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpikeStudios&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LidlDev&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -87,7 +90,7 @@ Built to demonstrate expertise in contemporary web development and design patter
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SpikeStudios&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LidlDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ---
 
