@@ -80,7 +80,7 @@ Showcase progress on all my projects
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LidlDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LidlDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LidlDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LidlDev&theme=tokyonight&hide_border=true&background=0D1117)
 
