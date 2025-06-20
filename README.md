@@ -78,11 +78,12 @@ Showcase progress on all my projects
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LidlDevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LidlDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LidlDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LidlDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LidlDev&theme=tokyonight&hide_border=true&background=0D1117)
+
 
 </div>
 
