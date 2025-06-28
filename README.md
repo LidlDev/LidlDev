@@ -23,7 +23,7 @@
 - Advanced player statistics tracking
 - Real-time team communication
 - Performance analytics dashboard
-- Machine Learning advancements in lineup management, development programs and deep insights into player formance
+- Machine Learning advancements in lineup management, development programs and deep insights into player performance
 
 ### 🗺️ **Uncharted** - Your Personal Travel Companion
 > *All-in-one travel app that transforms every journey into an adventure*
